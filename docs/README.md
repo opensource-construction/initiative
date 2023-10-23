@@ -88,10 +88,7 @@ The intended added value is as follows:
 
 
 ## 2. Activities 
-### 2.1 Roadmap
-<img width="982" alt="image" src="https://github.com/opensource-construction/initiative/assets/126971887/f35a5bb7-5fac-4ab2-b131-1b4e52fa5d25">
-
-### 2.2 Key activities in 2023/204
+### 2.1 Key activities in 2023/204
 To get started, activities are focused on three core themes:
 + **Communication**: Insights & Understanding
 + **Events**: Learn & Connect
@@ -129,7 +126,15 @@ Examples:
 Bauteilkatalog 
 OpenMaterialData
 OpenCDE
+Gemeinwerk
 Drilling Data to Geometry
+
+### 2.2 Roadmap
+In the first phase, it's all about creating awareness for the innovation potential of open source for non-digital stakeholders in the construction industry. Through the planned activities, we reach out to the public and build a community.
+
+If successful, further consolidation can be achieved. One idea is to create something like a public "OSPO" [LINK](https://todogroup.org/) for the construction industry. Further ideas are to setup a working group at the [Eclipse Foundation](https://www.eclipse.org/org/) or an Innovation Booster at [Innosuisse](https://www.innosuisse.ch/inno/en/home/project-set-up-assistance-and-networking/innovation-booster.html) to facilitate the development of innovation projects in the realm of open source.
+
+<img width="982" alt="image" src="https://github.com/opensource-construction/initiative/assets/126971887/f35a5bb7-5fac-4ab2-b131-1b4e52fa5d25">
 
 ### 2.3 Goals 2023
 + 3 additional partner onboarded
@@ -159,6 +164,7 @@ In the first phase, opensource.construction is run by motivated individuals (= c
 
 The team meets in monthly meetings, which are open to the public.
 The agenda for these meetings is as follows:
+1. **introduction** of new members / guests if applicable
 1. **Communication**
    + Tech radar (at least one new entry every month, one tech story every month)
    + Project stories (one story every month)
@@ -168,10 +174,11 @@ The agenda for these meetings is as follows:
    + Outlook to upcoming opportunities
 1. **Project Facilitation**
    + new project requests, Updates on "Blackboard"
-1. Budget
+1. **Budget**
    + Update to budget and potential new partnerships
 
 Core members are encouraged to participate in the monthly meetings.
+
 Every core member takes over responsibility for at least one topic on the agenda.
 
 ### 3.4 Budget
@@ -196,7 +203,7 @@ Further costs like website hosting, maintenance and costs for individual aperos 
 
 **Core members** are supporting the initiative with their time. Their organisations are encouraged to either partner in one of the events or become a member of CH Open to support the activities of the iniative financially.
 
-**Partner organisation can choose to support the iniative in three ways:**
+**Partner organisation can choose to support the initiative in three ways:**
 1. **as an active partner**. Full package, full visibility on the website and in social media content + one (or more) seat in the core team.
 2. **as an event partner**. Primary supporting individual events with tailored packages depending on the occasion.
 3. **as a passive partner**. Visible on the website with logo, portrait and further social media content.
