@@ -1,2 +1,2 @@
 # initiative
-All information about the initiative
+## https://www.opensource.construction
