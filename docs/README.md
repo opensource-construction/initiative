@@ -68,6 +68,7 @@ The initiative addresses three target groups:
 1. **Open source projects** from the industry and academia.
 
 The intended added value is as follows:
+
 **“Non-digital” decision makers can …**
 + learn about latest tech trends
 + grow their tech stack in an open way
@@ -144,7 +145,7 @@ This is the motivation that led to the foundation of opensource.construction. It
 All this was made possible by the generous sponsorship of [Swiss Property](https://www.swiss-property.ch/en/) and it's CEO [Johannes May](https://www.linkedin.com/in/johannes-may-84526015a/) as well it's CTO [Markus Steinbrecher](https://www.linkedin.com/in/markus-steinbrecher-bb290583/).
 
 ### 3.2 Working group @ CH-Open
-To scale impact from the beginning, we started to look out for existing initiatives. Since we want to actively bridge the gap between AECO and tech people, our focus is to add a tech driven puzzle piece to the organisations in the construction industry (like BuildingSmart etc.). Therefore we decided to look out for organisations in the ICT sector.
+To scale impact from the beginning, we started to look out for existing initiatives. Guided by the idea to actively bridge the gap between AECO and tech people, the focus was to add a tech driven puzzle piece to existing organisations in the construction industry (like BuildingSmart etc.). Therefore we decided to look out for organisations in the ICT sector.
 With [CH Open](https://www.ch-open.ch/), we found a great place to start. 
 
 Consequently, opensource.construction is organised as a working group of CH Open to keep the overhead small. With over 350 member companies, CH Open has been promoting open source software and open standards in Switzerland for 40 years – it is the perfect partner organisation to assist us on our journey to a more open construction industry.
@@ -156,32 +157,51 @@ Swiss Property's subsidiary company [vyzn](https://www.vyzn.tech/) is a premium 
 ### 3.3 Modus operandi
 In the first phase, opensource.construction is run by motivated individuals (= core team).
 
-Monthly meetings, open to the public.
+The team meets in monthly meetings, which are open to the public.
+The agenda for these meetings is as follows:
+1. **Communication**
+   + Tech radar (at least one new entry every month, one tech story every month)
+   + Project stories (one story every month)
+   + General updates to website (maintenance like SEO optimisation and content management)
+1. **Events**
+   + Update to planned events
+   + Outlook to upcoming opportunities
+1. **Project Facilitation**
+   + new project requests, Updates on "Blackboard"
+1. Budget
+   + Update to budget and potential new partnerships
 
-Core members take over different responsibilities:
-+ **Tech radar** (at least one new entry every month, one tech story every month)
-+ **Project stories** (one story every month)
-+ **Blackboard** (communication and documentation of project requests)
-+ **website** (maintenance like SEO optimisation and content management)
-+ **events** (individual events always have an organisation commitee)
-
-At present, the core team is made up of the following people:
-Co-Lead Zurich: [Maximilian Vomhof](https://www.linkedin.com/in/maximilian-vomhof-ba186a60/)
-Co-Lead Zurich: [Markus Steinbrecher](https://www.linkedin.com/in/markus-steinbrecher-bb290583/)
-Co-Lead Copenhagen: [Christian Kongsgaard](https://www.linkedin.com/in/christian-kongsgaard/)
-
+Core members are encouraged to participate in the monthly meetings.
+Every core member takes over responsibility for at least one topic on the agenda.
 
 ### 3.4 Budget
-The main costs in 2024 are the events. The goal is for every event to be self-supporting.
-Further costs like website hosting, maintenance and costs for individual aperos will be covered through additional sponsorships.
+The main costs in 2024 are the events. The goal is for every event to be self-supporting through individual event partners.
+Further costs like website hosting, maintenance and costs for individual aperos are covered through additional sponsorships.
 
 
 ## 4. Commitment as an active member and/or partner organisation
-Active member
+**Core members** have the following **benefits**:
++ direct access to a community of forward thinking people
++ place topics from their own organisation directly in the discussion
++ simplified access to potential partners / clients
++ exponential learning curve in topics ranging from tech through facilitation to business cases through hands on experiences
 
-Partner organisation
+**At present, the core team is made up of the following people:**
++ Co-Lead Zurich: [Maximilian Vomhof](https://www.linkedin.com/in/maximilian-vomhof-ba186a60/)
++ Co-Lead Zurich: [Markus Steinbrecher](https://www.linkedin.com/in/markus-steinbrecher-bb290583/)
++ Co-Lead Copenhagen: [Christian Kongsgaard](https://www.linkedin.com/in/christian-kongsgaard/)
++ Member Zurich: Thorben Westerhuys (tbd)
++ Member Zurich: Karel van Eechoud (tbd)
++ further members are always welcome to join.
 
-signatures
+**Core members** are supporting the initiative with their time. Their organisations are encouraged to either partner in one of the events or become a member of CH Open to support the activities of the iniative financially.
+
+**Partner organisation can choose to support the iniative in three ways:**
+1. **as an active partner**. Full package, full visibility on the website and in social media content + one (or more) seat in the core team.
+2. **as an event partner**. Primary supporting individual events with tailored packages depending on the occasion.
+3. **as a passive partner**. Visible on the website with logo, portrait and further social media content.
+
+
 
 
 
