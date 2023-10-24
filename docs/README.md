@@ -7,7 +7,7 @@ It is intended to create a common understanding for everyone supporting the init
 ## 1. Background and Objectives
 ### 1.1 Open Source and the construction industry
 #### What we see in Tech
-Open source software has become a key innovation engine and enables enormous leaps forward in the technology industry, changing and enriching our lives in many ways. Even the largest and most financially powerful technology companies in the world are taking advantage of open source software and freely accessible data sources. 
+Open source software has become a key innovation engine and enables enormous leaps forward in the technology industry, changing and enriching our lives in many ways. More and more of the largest and most financially powerful technology companies in the world are leveraging and actively contributing to open source software and freely accessible data sources. 
 Driven by this success, open source has become a movement and a way of working that goes beyond software production. The “open” movement uses the values and decentralised production model of open source software to find new ways to solve problems in different communities and industries.
 
 > **"Open source isn't about saving money, it's about doing more stuff and getting continuous innovation with the finite budget you have."**
@@ -49,7 +49,7 @@ Specifically, the initiative aims at the following objectives:
 + **Organisations are empowered to move from passive to active players in the digital transformation**
 
 **In detail: Access to technology is simplified for AECO professionals**
-Typically, people in AECO do not have a software engineering background. Without a more profound understanding of what is possible and what is best practice in developing digital processes and tools, a lot of energy is wasted in current transformation projects. The objective is to create low-threshold connections between AECO and tech professionals and to enable smooth know-how transfer. This way, IT-related topics can be discussed in a friendly environment with open-minded people, where there are no wrong questions and people can learn from each other, even as non-coders.
+Typically, people in AECO do not have a software engineering background. Without a more profound understanding of what is possible and what is best practice in developing digital processes and tools, a lot of energy is wasted in current transformation projects. The objective is to create low-threshold connections between AECO and tech professionals and to enable smooth know-how transfer. This way, IT-related topics can be discussed in a friendly environment with open-minded people, where there are no wrong questions and people can learn from each other, no matter their background and expertise.
 
 **In detail: “Digital sustainability” becomes a driver for digitalisation efforts**
 The real estate and construction industries are fragmented, companies operate on low margins and a typical project involves 80 companies. While some big players are moving forward and developing cutting-edge frameworks, they rely on collaboration with the rest of the companies involved: no digital workflows without partners. 
@@ -58,7 +58,7 @@ According to the principle of “digital sustainability”, digital knowledge go
 <img width="517" alt="image" src="https://github.com/opensource-construction/initiative/assets/126971887/47ac9df0-79b7-446a-8f2a-a94f676db6cc">
 
 **In detail: Organisations are empowered to move from passive to active players in the digital transformation**
-Today, many organisations are passive and wait until a standard is released to move on. Tomorrow, they become more proactive and start to build small solutions that they can immediately use. Ideally, they do this not in their silo but in the open and do things different than today: open source = collaboration with a business case.
+Today, many organisations are passive and wait until a standard is released to move on. Tomorrow, they become more proactive and start to build small solutions that they can immediately use, adapt and appropriate. Ideally, they do this not in their silo but in the open and do things different than today: open source = collaboration with a business case.
 The objective is that open source business models become more common and more companies start to develop infrastructure together with a clear understanding of specifications, delimitations and investments.
 
 ### 1.3 Target groups
@@ -123,11 +123,11 @@ We connect AECO organisations with existing solutions and software engineers tha
 Expert-Pools: [CH-Open](https://www.ch-open.ch/), [Data Innovation Alliance](https://data-innovation.org/) + solution providers
 
 Examples:
-Bauteilkatalog 
-OpenMaterialData
-OpenCDE
-Gemeinwerk
-Drilling Data to Geometry
+- Bauteilkatalog 
+- OpenMaterialData
+- OpenCDE
+- Gemeinwerk
+- Drilling Data to Geometry
 
 ### 2.2 Roadmap
 In the first phase, it's all about creating awareness for the innovation potential of open source for non-digital stakeholders in the construction industry. Through the planned activities, we reach out to the public and build a community.
