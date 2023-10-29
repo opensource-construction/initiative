@@ -7,13 +7,16 @@ It is intended to create a common understanding for everyone supporting the init
 ## 1. Background and Objectives
 ### 1.1 Open Source and the construction industry
 #### What we see in Tech
-Open source software has become a key innovation engine and enables enormous leaps forward in the technology industry, changing and enriching our lives in many ways. Even the largest and most financially powerful technology companies in the world are taking advantage of open source software and freely accessible data sources. 
-Driven by this success, open source has become a movement and a way of working that goes beyond software production. The “open” movement uses the values and decentralised production model of open source software to find new ways to solve problems in different communities and industries.
+The open source model accelerates innovation by promoting collaboration and knowledge sharing. The basic idea is that it is a waste to keep repeating yourself or others - infrastructure that is required for your value proposition but is not a key differentiator should therefore not be developed over and over again. It makes more sense to develop this infrastructure (in the software world, for example, programming languages, database structures, CMS systems, encryption technologies and much more) openly. This means that instead of just a few users from one company, there are many users from many companies who have an interest in ensuring that these open solutions continue to develop and keep up with the times - an unbeatable driver of innovation. 
 
 > **"Open source isn't about saving money, it's about doing more stuff and getting continuous innovation with the finite budget you have."**
 Jim Whitehurst, former President of IBM and CEO of Red Hat
 
 <img width="585" alt="image" src="https://github.com/opensource-construction/initiative/assets/126971887/5fed8032-5779-4325-80ce-dabba218f827">
+
+As a result, open source software has become an important driver of innovation and enables enormous leaps forward in the technology industry, changing and enriching our lives in many ways. Even the largest and most financially powerful technology companies in the world are taking advantage of open source software and freely accessible data sources. 
+Driven by this success, open source has become a movement and a way of working that goes beyond software production. The “open” movement uses the values and decentralised production model of open source software to find new ways to solve problems in different communities and industries. 
+
 
 #### What we see in AECO
 The construction industry is characterised by numerous small and medium-sized companies that operate locally with standard systems but individual processes. 90% of architecture and engineering offices have less than 10 employees, 62% of construction companies have less than 50 employees. Most companies have little to no budget for research and development - certainly not for the development of digital solutions. Broadly speaking, the industry has…
