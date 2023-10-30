@@ -1,4 +1,4 @@
-# initiative
+# memorandum of understanding
 ## https://www.opensource.construction
 
 The purpose of this document is to outline the background, objectives and activities of the opensource.construction initiative. 
