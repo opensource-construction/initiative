@@ -7,7 +7,7 @@ It is intended to create a common understanding for everyone supporting the init
 ## 1. Background and Objectives
 ### 1.1 Open Source and the construction industry
 #### What we see in Tech
-The open source model accelerates innovation by promoting collaboration and knowledge sharing. The basic idea is that it is a waste to keep repeating yourself or others - infrastructure that is required for your value proposition but is not a key differentiator should therefore not be developed over and over again. It makes more sense to develop this infrastructure (in the software world, for example, programming languages, database structures, CMS systems, encryption technologies and much more) openly. This means that instead of just a few users from one company, there are many users from many companies who have an interest in ensuring that these open solutions continue to develop and keep up with the times - an unbeatable driver of innovation. 
+The open source model accelerates innovation by promoting collaboration and knowledge sharing. The core idea is: Technological infrastructure that is necessary for a company's value proposition, but is not a key differentiator, should not be developed from scratch over and over again. It makes more sense to build this infrastructure (some examples from the software world are programming languages, database structures, CMS systems, encryption technologies and much more) on open solutions and improve them rather than developing new ones. After all, not only a few users from one company use a specific solution, but many users from many companies. They all have an interest in the open solution evolving and moving with the times - an unbeatable driver of innovation.
 
 > **"Open source isn't about saving money, it's about doing more stuff and getting continuous innovation with the finite budget you have."**
 Jim Whitehurst, former President of IBM and CEO of Red Hat
@@ -21,7 +21,7 @@ Driven by this success, open source has become a movement and a way of working t
 #### What we see in AECO
 The construction industry is characterised by numerous small and medium-sized companies that operate locally with standard systems but individual processes. 90% of architecture and engineering offices have less than 10 employees, 62% of construction companies have less than 50 employees. Most companies have little to no budget for research and development - certainly not for the development of digital solutions. Broadly speaking, the industry has…
 + **… a learning problem:** Stakeholders find it difficult to adapt to new trends / technologies. 
-+ **… an innovation problem:** The landscape is characterised by closed ecosystems within companies and within software tools, which prevents innovation (and start-ups) from scaling. 
++ **… an innovation problem:** The landscape is characterised by fragmented, closed ecosystems within companies and within software tools, which prevents innovation (and start-ups) from scaling. 
 + **… a collaboration problem:** The “not invented here” syndrome is a real issue. In terms of digitalisation efforts, many companies still operate in competition rather than collaboration mode.
 
 #### Challenges faced by individual organisations
@@ -29,7 +29,7 @@ Looking closer, all things related to digital solutions or data strategies do no
 + **Most decision makers do not have a background in software engineering or similar**, so purchasing decisions or long-term digital strategies are a pain.
 + **Costs for licences are rising**, fuelled by a hard vendor-lock in.
 + **Overpromising on efficiency gains in the past with digital solutions cause hesitation.** In addition, it is very cumbersome to adapt existing solutions to individual needs.
-+ **Attracting tech talent is difficult.** The traditional value creation process of most companies is not digital. Hiring and leading software engineers within these organisations is not an easy undertaking.
++ **Attracting tech talent is difficult.** The traditional value creation process of most companies is not digital. Hiring and leading software engineers within these organisations is an increasingly difficult undertaking.
 
 At the same time, all organisations are under pressure to a) participate in digital workflows with external partners, b) optimise their processes to stay competitive and c) commit to the grown expectations regarding transparency and sustainability from their clients. 
 
@@ -70,7 +70,9 @@ The initiative addresses three target groups:
 1. **Existing and aspiring coders** from the industry and academia.
 1. **Open source projects** from the industry and academia.
 
-The intended added value is as follows:
+The intended added value is in general to enhance scalability and impact of open source solutions in the real estate and construction industry. 
+
+For the individual target groups, added value can be described as follows:
 
 **“Non-digital” decision makers can …**
 + learn about latest tech trends
