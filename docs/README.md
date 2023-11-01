@@ -202,8 +202,8 @@ Further costs like website hosting, maintenance and costs for individual aperos 
 + Co-Lead Zurich: [Maximilian Vomhof](https://www.linkedin.com/in/maximilian-vomhof-ba186a60/)
 + Co-Lead Zurich: [Markus Steinbrecher](https://www.linkedin.com/in/markus-steinbrecher-bb290583/)
 + Co-Lead Copenhagen: [Christian Kongsgaard](https://www.linkedin.com/in/christian-kongsgaard/)
-+ Member Zurich: Thorben Westerhuys (tbd)
-+ Member Zurich: Karel van Eechoud (tbd)
++ Member Zurich: [Thorben Westerhuys](https://www.linkedin.com/in/twesterhuys/)
++ Member Zurich: [Karel van Eechoud](https://www.linkedin.com/in/karelvaneechoud/)
 + further members are always welcome to join.
 
 **Core members** are supporting the initiative with their time. Their organisations are encouraged to either partner in one of the events or become a member of CH Open to support the activities of the iniative financially.
