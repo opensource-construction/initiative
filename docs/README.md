@@ -27,8 +27,7 @@ The construction industry is characterised by numerous small and medium-sized co
 #### Challenges faced by individual organisations
 Looking closer, all things related to digital solutions or data strategies do not have an easy standing in the industry:
 + **Most decision makers do not have a background in software engineering or similar**, so purchasing decisions or long-term digital strategies are a pain.
-+ **Costs for licences are rising**, fuelled by a hard vendor-lock in.
-+ **Overpromising on efficiency gains in the past with digital solutions cause hesitation.** In addition, it is very cumbersome to adapt existing solutions to individual needs.
++ **Overpromising on efficiency gains in the past with digital solutions cause hesitation.** In addition, it is very cumbersome to adapt existing solutions to individual needs, which creates frustration – especially in the combination with continuously rising costs for licences and vendor-lock in effects.
 + **Attracting tech talent is difficult.** The traditional value creation process of most companies is not digital. Hiring and leading software engineers within these organisations is an increasingly difficult undertaking.
 
 At the same time, all organisations are under pressure to a) participate in digital workflows with external partners, b) optimise their processes to stay competitive and c) commit to the grown expectations regarding transparency and sustainability from their clients. 
