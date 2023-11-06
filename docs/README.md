@@ -60,7 +60,7 @@ According to the principle of “digital sustainability”, digital knowledge go
 <img width="517" alt="image" src="https://github.com/opensource-construction/initiative/assets/126971887/47ac9df0-79b7-446a-8f2a-a94f676db6cc">
 
 **In detail: Organisations are empowered to move from passive to active players in the digital transformation**
-Today, many organisations are passive and wait until a standard is released to move on. Tomorrow, they become more proactive and start to build small solutions that they can immediately use. Ideally, they do this not in their silo but in the open and do things different than today: open source = collaboration with a business case.
+Today, many organisations are passive and wait until e.g. a standard is released to move on. Tomorrow, they become more proactive and start to build small solutions that they can immediately use. Ideally, they do this not in their silo but in the open and do things different than today: open source = collaboration with a business case.
 The objective is that open source business models become more common and more companies start to develop infrastructure together with a clear understanding of specifications, delimitations and investments.
 
 ### 1.3 Target groups
